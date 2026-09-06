@@ -1,12 +1,11 @@
-## Hey, I'm Saad 
+# YOUR_NAME
 
-Full Stack Web & Mobile Developer from Morocco 🇲🇦
+**Full Stack Web & Mobile Developer**
 
-I enjoy building clean, scalable, and user-focused applications—from modern web platforms to mobile apps.
+I build clean, scalable, and user-focused applications — from modern web platforms to mobile apps.
 
-My main stack includes React, TypeScript, Laravel, Node.js, Flutter, Supabase, PostgreSQL, and Tailwind CSS.
+**Tech stack:** React, TypeScript, Node.js, PostgreSQL, Tailwind CSS.
 
-Some of the projects I'm allowed to share are pinned below 👇
-Feel free to check them out.
+Some of the projects I'm allowed to share are pinned below. Feel free to check them out.
 
 Always learning. Always building.
