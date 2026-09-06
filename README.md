@@ -1,11 +1,9 @@
-# YOUR_NAME
+# Saad Faid
 
 **Full Stack Web & Mobile Developer**
 
-I build clean, scalable, and user-focused applications — from modern web platforms to mobile apps.
+**Berrechid, Morocco** — building clean, scalable applications for the web and mobile.
 
-**Tech stack:** React, TypeScript, Node.js, PostgreSQL, Tailwind CSS.
+**Stack:** React, TypeScript, Node.js, Laravel, Flutter, Tailwind CSS, PostgreSQL, Supabase.
 
-Some of the projects I'm allowed to share are pinned below. Feel free to check them out.
-
-Always learning. Always building.
+Some of my projects are pinned below. Always learning, always building.
