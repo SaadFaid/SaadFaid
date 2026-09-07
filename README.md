@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+%26+Mobile+Developer;React+%2C+Angular+%2C+Flutter+%2C+Node.js;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=108&lines=Full+Stack+%26+Mobile+Developer;React+%2C+Angular+%2C+Flutter+%2C+Node.js;Always+learning.+Always+building." alt="Typing SVG" />
 
 ### Hi, I'm Saad Faid 👋
 
@@ -26,7 +26,7 @@ Building clean, scalable applications for the web and mobile.
 
 ### GitHub Stats
 
-<div align="center">
+<div align="center" style="padding: 28px 24px; border-radius: 20px; background: linear-gradient(135deg, rgba(0, 189, 189, 0.12), rgba(0, 189, 189, 0.04)); border: 1px solid rgba(0, 189, 189, 0.30); backdrop-filter: blur(10px);-webkit-backdrop-filter: blur(10px); width: fit-content; margin: 0 auto; box-shadow: 0 12px 40px rgba(0, 189, 189, 0.18);">
 
 ![Followers](https://img.shields.io/github/followers/SaadFaid?style=for-the-badge&logo=github&color=58A6FF)
 ![Profile Views](https://komarev.com/ghpvc/?username=SaadFaid&color=58A6FF&style=for-the-badge)
