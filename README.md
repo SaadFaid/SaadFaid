@@ -22,8 +22,10 @@ Building clean, scalable applications for the web and mobile.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadFaid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadFaid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Followers](https://img.shields.io/github/followers/SaadFaid?style=for-the-badge&logo=github&color=58A6FF)
+![Profile Views](https://komarev.com/ghpvc/?username=SaadFaid&color=58A6FF&style=for-the-badge)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SaadFaid&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -107,18 +109,6 @@ Personal portfolio: profile, experience, projects, skills, and contact.
 </table>
 
 ---
-
-### Contribution Graph
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SaadFaid&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaadFaid&color=58A6FF&style=for-the-badge)
 
