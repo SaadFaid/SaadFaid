@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Mobile+Builder;React+%2C+TypeScript+%2C+Node.js+%2C+Flutter;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+%26+Mobile+Developer;React+%2C+Angular+%2C+Flutter+%2C+Node.js;Always+learning.+Always+building." alt="Typing SVG" />
 
 ### Hi, I'm Saad Faid 👋
 
@@ -12,7 +12,7 @@ Building clean, scalable applications for the web and mobile.
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
@@ -84,6 +84,17 @@ Monthly goals tracker with weighted actions, rewards, and snapshots.
 </td>
 <td>
 
+**🚗 Bghit Nsog - Car Rental Mobile**
+Full-stack car rental app: Flutter mobile frontend + Spring Boot REST API backend.
+`Flutter` `Java` `Spring Boot` `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github)](https://github.com/SaadFaid/BghitNsog_RentalCar_MobileApplication)
+
+</td>
+</tr>
+<tr>
+<td>
+
 **🌐 Portfolio**
 Personal portfolio: profile, experience, projects, skills, and contact.
 `HTML` `CSS` `JavaScript`
@@ -91,6 +102,7 @@ Personal portfolio: profile, experience, projects, skills, and contact.
 [![Repo](https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github)](https://github.com/SaadFaid/Portfolio)
 
 </td>
+<td></td>
 </tr>
 </table>
 
