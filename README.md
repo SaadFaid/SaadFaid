@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=108&lines=Full+Stack+%26+Mobile+Developer;React+%2C+Angular+%2C+Flutter+%2C+Node.js;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=120&lines=Full+Stack+%26+Mobile+Developer;React+%2C+Angular+%2C+Flutter+%2C+Node.js;Always+learning.+Always+building." alt="Typing SVG" />
 
 ### Hi, I'm Saad Faid 👋
 
