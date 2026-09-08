@@ -143,15 +143,6 @@ Custom FiveM server loading screen with branded HTML/CSS/JS art.
 <tr>
 <td>
 
-**🎙️ VoiceStudio (fork)**
-Fully-local AI voice studio: voice cloning, video dubbing, dictation & audiobooks in 646 languages. Fork of debpalash/VoiceStudio.
-`React` `Python` `Rust`
-
-[![Repo](https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github)](https://github.com/SaadFaid/VoiceForge)
-
-</td>
-<td>
-
 </td>
 </tr>
 </table>
